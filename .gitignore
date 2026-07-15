@@ -1,0 +1,11 @@
+# Installers are distributed only through GitHub Releases.
+*.exe
+*.zip
+*.msi
+*.7z
+
+# Local files.
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
