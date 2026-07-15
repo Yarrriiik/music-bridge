@@ -4,8 +4,8 @@
 
 ## Скачать
 
-- **Music Bridge Setup 0.9.0.exe** — рекомендуемый вариант: установщик Windows x64.
-- **Music Bridge Windows x64.zip** — portable-версия без установки.
+- **Music.Bridge.Setup.0.9.0.exe** — рекомендуемый вариант: установщик Windows x64.
+- **Music.Bridge.Windows.x64.zip** — portable-версия без установки.
 
 Python и ручная установка зависимостей не требуются. Для работы приложения необходим Google Chrome.
 
